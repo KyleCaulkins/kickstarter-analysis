@@ -1,3 +1,23 @@
-# An Analysis of Kickstarter Campaigns
-kickstarter data analysis to look at trends for Louise
-The data analysis shows that the sucess of various kickstarter campaigns. The recommendations to Louise are to reduce the budget for an increased sucess rate. See attached box plott for average fund raising and variance. The other recommendation to Louise is to discuss timing. If possible, it seems that theatre campaigns have a higher sucess rate in early summer ~June.  
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
