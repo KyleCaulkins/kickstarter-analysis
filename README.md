@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project is to help Louise develop a Kickstarter campaign strategy to fund her play in a local theater. Using data from past Kickstarter campaigns we hope to provide clarity to Louise on how other Kickstarter campaigns have fared based on their launch dates and funding goals. Louise was initially thinking the production would need to raise $12,000.
+The purpose of this project is to help Louise develop a Kickstarter campaign strategy to fund her play in a local theater. Using data from past Kickstarter campaigns we hope to provide clarity to Louise on how other Kickstarter campaigns have fared based on their launch dates and funding goals. Recently, Louise was able to launch her kickstarter campaign and come close to the goal funding in a short amount of time. This iteration of the analysis is to help predict the outcome based on dates and goal amounts.
 
 ## Analysis and Challenges
 
