@@ -11,13 +11,13 @@ The purpose of this project is to help Louise develop a Kickstarter campaign str
 
 ![Outcomes_Based_On_Launch_Date](http://kickstarter-analysis/assets/images/Theater_Outcomes_vs_Launch.png)
 
-The data analyzed contains Kickstarter campaigns from 2007 through 2017, filtered to only contain a parent category of theater. The theater category is the most relevant category for Louise's play. The data shows the month of May has the highest count of successful Kickstarter campaigns, when compared to any other month. The count of failed and canceled campaigns in May do not show the dramatic increase that successful campaigns do. Based on this information, it is recommended that Louise launches her Kickstarter campaign in the month of May, if at all possible.
+The data analyzed contains Kickstarter campaigns from 2007 through 2017, filtered to only contain a parent category of theater. The theater category is the most relevant parent category for Louise's play. The data has been divided to display counts of theater campaigns with outcomes that were successful, failed, or canceled. These three outcomes were compared as each month accross a calendar year. The analysis aids in determining seasonality to each outcome or if a particular month is more or less favorable when compared to the rest of the year.
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_Based_On_Goals](http://kickstarter-analysis/assets/images/Outcomes_vs_Goals.png)
 
-Using Kickstarter campaign data from 2007 through 2017, filtered for the subcategory of plays, an analysis was performed to determine success rates of Kickstarter campaigns based on financial goals. Louise had originally thought the play would need roughly $12,000 generated through Kickstarter. While the anlaysis shows that plays in this financial range do have a higher percentage of success than failed, it is recommended to reduce the budget to roughly $5,000. Plays with a budget of $5,000 or lower have a much higher percent of success, and much lower precent of failure, when getting funded on Kickstarter. The higher funding goal will have a success rate of roughly 54%, and the lower goal will have a success rate of 73%.
+Using Kickstarter campaign data from 2007 through 2017, filtered for the subcategory of plays, an analysis was performed to determine success rates of Kickstarter campaigns based on financial goals. A set of formuals were used to count campaigns that were successful, failed, or canceled, in groupings based on goal value. These counts were summarized into total counts of projects in each goal value grouping. The count of successful, failed, or canceled were compared against the total projects for each goal value grouping and expressed as a percent. The percent successful, failed or canceled were used to produce the visualization. This analysis helps to determine what range the value of the Kickstarter campaign goal should be for Louise to have the best success rate of getting funded. The same analysis could be used to determine the predicted success rate of a campaign that had an inflexible budget.
 
 ### Challenges and Difficulties Encountered
 
